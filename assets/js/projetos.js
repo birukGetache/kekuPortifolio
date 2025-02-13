@@ -1,6 +1,6 @@
 function projetos(section) {
   section.innerHTML = `<header>
-      <h2>Projetos</h2>
+      <h2>Projects</h2>
     </header>
     <div class="content">
       <div class="cards">
@@ -47,7 +47,7 @@ function projetos(section) {
           <p>HTML - CSS - JS - NodeJS - Express - SQLite</p>
         </div>
         <div class="card">
-          <h3>Desafio 21 dias de código</h3>
+          <h3>21-Day Coding Challenge.</h3>
           <div class="img-wrapper">
             <img
               src="./assets/images/projects/desafio-de-codigo.jpg"
