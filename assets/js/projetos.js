@@ -12,7 +12,7 @@ function projetos(section) {
               alt="GIF do projeto Orange Evolution."
             />
             <div class="buttons">
-              <a href="https://github.com/squad-30/OrangeEvolution-Squad30" target="_blank" title="Repositório no Github">
+              <a href="https://ution-Squad30" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -42,7 +42,7 @@ function projetos(section) {
             </div>
           </div>
           <p>
-            Plataforma de estudos desenvolvida na Hackathon do Programa de Formação 4 da FCamara.
+          Study platform developed during the Hackathon of the FCamara Training Program 4.
           </p>
           <p>HTML - CSS - JS - NodeJS - Express - SQLite</p>
         </div>
@@ -54,7 +54,7 @@ function projetos(section) {
               alt="Imagem tema do projeto de desafio de código."
             />
             <div class="buttons">
-              <a href="https://github.com/lucyanovidio/desafio-21-dias-codigo-rocketseat" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/keku" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -84,7 +84,7 @@ function projetos(section) {
             </div>
           </div>
           <p>
-            Desafio promovido pela Rocketseat com 21 projetos diferentes.
+      Challenge organized by Rocketseat with 21 different projects.
           </p>
           <p>HTML - CSS - JS</p>
         </div>
@@ -122,7 +122,7 @@ function projetos(section) {
               </a>
             </div>
           </div>
-          <p>Páginas de links desenvolvida para cliente.</p>
+          <p>Link pages developed for a client.</p>
           <p>HTML - CSS - JS</p>
         </div>
         <div class="card">
@@ -159,7 +159,7 @@ function projetos(section) {
               </a>
             </div>
           </div>
-          <p>Página de contato para consultas desenvolvida para cliente.</p>
+          <p>Contact page for inquiries developed for a client.</p>
           <p>HTML - CSS - JS</p>
         </div>
         <div class="card">
